@@ -105,3 +105,7 @@ compatibility_date = "2024-05-24"
 # [[vectorize]]
 # binding = "MY_INDEX"
 # index_name = "my-index"
+
+kv_namespaces = [
+{ binding = "sls", id = "e8ad026f31e04fbc9bd771f95108a40e" }
+]
